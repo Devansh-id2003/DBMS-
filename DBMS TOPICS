@@ -1,0 +1,154 @@
+🎯 Final Topic List for CDAC CCEE (Data Collection & DBMS – Principles, Tools & Platforms)
+🧩 Module 1: Database Concepts & Fundamentals
+
+File System and its Need
+
+Introduction to DBMS
+
+Codd’s 12 Rules for RDBMS
+
+OLTP vs OLAP
+
+Structured and Unstructured Data
+
+Database Storage Structures
+
+Tablespace
+
+Control File
+
+Data File
+
+🧠 Module 2: SQL Basics & Query Operations
+
+Introduction to SQL
+
+SQL Commands Overview
+
+DDL (Create, Alter, Drop, Grant, Revoke)
+
+DML (Select, Insert, Update, Delete, Truncate)
+
+DCL (Commit, Rollback)
+
+Grouping and Aggregation (GROUP BY, HAVING)
+
+Sorting Data (ORDER BY)
+
+Advanced Subqueries (Correlated, Nested)
+
+Joins (Inner, Outer, Self Joins)
+
+Conditional Constructs (CASE statements, IF logic)
+
+Views – Creation and Usage
+
+Window Functions
+
+Triggers – Concepts and Implementation
+
+🧩 Module 3: Database Design & Modelling
+
+Data Collection Methods
+
+Designing a Database Schema
+
+Relational Database Modelling
+
+Entity Relationship (ER) Diagrams
+
+Normalization (1NF to BCNF)
+
+Stored Procedures and Functions
+
+Systematic Data Gathering Tools
+
+🗃️ Module 4: Data Warehousing and Advanced DB Concepts
+
+Data Warehousing Concepts
+
+Tools Related to Data Warehousing
+
+Algorithms in Data Warehousing
+
+Importance and Applications of Data Warehouses
+
+🧮 Module 5: NoSQL Databases
+
+Introduction to NoSQL
+
+RDBMS vs NoSQL – Key Differences
+
+NoSQL Storage Architectures
+
+Column-Oriented Databases
+
+Document Stores and Internals
+
+Schema Structure and Schema Evolution
+
+Data Evolution in Key/Value Stores
+
+🍃 Module 6: MongoDB (Document-Oriented Database)
+
+Introduction to MongoDB
+
+CRUD Operations in MongoDB
+
+Create, Read, Update, Delete
+
+Querying in MongoDB (Operators, Conditions)
+
+Aggregation in MongoDB
+
+Indexing and Ordering Concepts
+
+MongoDB Internals
+
+Similarities Between SQL and MongoDB Queries
+
+Accessing Data from HBase and Redis
+
+🧱 Module 7: XML & Data Models
+
+XML Data Model
+
+Querying and Transformation in XML
+
+OLTP and OLAP Tools
+
+⚙️ Module 8: Cassandra (Column-Oriented Database)
+
+Introduction to Cassandra
+
+Cassandra Architecture
+
+Cassandra vs MongoDB Comparison
+
+CQL (Cassandra Query Language)
+
+Table Operations (Create, Alter, Drop, Truncate)
+
+Index Creation and Deletion
+
+Batch Operations
+
+CQL Data Types
+
+Built-in Types
+
+Collections
+
+User Defined Types (UDTs)
+
+CRUD Operations in Cassandra (Create, Read, Update, Delete)
+
+💡 Module 9: Data-Driven Decision Making
+
+Data-Driven Decision Concepts
+
+Enterprise Data Management
+
+Data Preparation Techniques
+
+Data Cleaning Techniques
